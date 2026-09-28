@@ -84,9 +84,6 @@ Blinkit-Sales-Inventory-Analysis/
 └── README.md
 ```
 
-## Dashboard Preview
-
-![Blinkit Sales & Inventory Dashboard](Dashboard%20Screenshot.png)
 
 ## Role & Responsibilities
 
@@ -103,7 +100,4 @@ Blinkit-Sales-Inventory-Analysis/
 
 This project demonstrates the use of data analytics and business intelligence techniques to transform raw retail data into meaningful insights through an interactive Power BI dashboard.
 
----
 
-**Author:** Yogharathna alias Rathnaa S
-**Role:** Business Intelligence / Data Analyst
